@@ -20,3 +20,13 @@ int main(){
     }
     return 0;
 }
+
+// number 
+
+int number(){
+    int num = 1;
+    return num;
+}
+
+
+
